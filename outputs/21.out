@@ -1,0 +1,28 @@
+Part 1:
+        Player 1 wins with 1000 points.
+        993 * 900 = 893700
+Part 2:
+        With caching:
+                Finished in 0.0 seconds.
+                The answer is 568867175661958.
+        Without caching:
+                ...round 1 took 0.0 seconds.
+                ...round 2 took 0.0 seconds.
+                ...round 3 took 0.0 seconds.
+                ...round 4 took 0.0 seconds.
+                ...round 5 took 0.0 seconds.
+                ...round 6 took 1.1 seconds.
+                ...round 7 took 15.0 seconds.
+                ...round 8 took 72.4 seconds.
+                ...round 9 took 543.6 seconds.
+                ...round 10 took 2083.6 seconds.
+                ...round 11 took 5317.7 seconds.
+                ...round 12 took 6156.9 seconds.
+                ...round 13 took 5012.1 seconds.
+                ...round 14 took 1560.6 seconds.
+                ...round 15 took 344.3 seconds.
+                ...round 16 took 47.5 seconds.
+                ...round 17 took 3.0 seconds.
+                ...round 18 took 0.0 seconds.
+                Finished in 21157.7 seconds.
+                The answer is 568867175661958.
